@@ -6,7 +6,11 @@ It's a fortune-telling program that gives accurate, inaccurate, or otherwise sta
 
 ### Requirements ###
 
-Ruby installed
+Ruby installed.
+
+[RubyInstaller for Windows](https://rubyinstaller.org/)
+
+[Ruby Version Manager (RVM)](https://rvm.io/)
 
 ### How to use ###
 
